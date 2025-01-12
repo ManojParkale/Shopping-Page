@@ -30,7 +30,14 @@ You can fork this repo to modify and make changes of your own. Please give me pr
 <br/>
 
 ## Description:
-The Simon game is an electronic memory challenge where players replicate an increasing sequence of lights and sounds by pressing colored buttons in the correct order.
+**Shopping Page Project**  
+An interactive shopping page with the following features:  
+- Dynamic price updates based on quantity input.  
+- Image slider for browsing product visuals.  
+- Shoe size selection for personalized shopping.  
+- Add-to-cart functionality for a complete e-commerce experience.  
+
+Ideal for exploring modern web development and UI design!
 
 ## Built With
 
