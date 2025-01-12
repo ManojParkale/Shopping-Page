@@ -1,5 +1,5 @@
 <h2 align="center">
-Simon Game <br/>
+Shopping Page <br/>
 </h2>
 <div align="center">
   <img alt="Demo" src="./simon-game.png" />
