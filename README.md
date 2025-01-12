@@ -12,21 +12,21 @@ Shopping Page <br/>
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/made-with-html.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/made-with-css.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/ManojParkale/Simon-Game?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/ManojParkale/Simon-Game?color=red&logo=github&style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/ManojParkale/Shopping-Page?color=red&logo=github&style=for-the-badge) &nbsp;
+![GitHub forks](https://img.shields.io/github/forks/ManojParkale/Shopping-Page?color=red&logo=github&style=for-the-badge)
 
 </center>
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/ManojParkale/Simon-Game/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/ManojParkale/Shopping-Page/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/ManojParkale/Simon-Game/issues">Request Feature</a>
+    <a href="https://github.com/ManojParkale/Shopping-Page/issues">Request Feature</a>
 </h3>
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [ManojParkale](https://github.com/ManojParkale/Simon-Game). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [ManojParkale](https://github.com/ManojParkale/Shopping-Page). Thanks!
 <br/>
 
 ## Description:
