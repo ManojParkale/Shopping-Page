@@ -2,7 +2,7 @@
 Shopping Page <br/>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./shopping-page.png" />
+  <img alt="Demo" src="./shoppping-page.png" />
 </div>
 
 <br/>
